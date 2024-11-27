@@ -1,0 +1,40 @@
+id, nombre, direccion, ubicacion, latitud, longitud, tel centro llantero
+ 1, "Puebla","Blvd. del Niño Poblano 2904","Puebla",19.0334989,-98.23779377,"222 2273 318"
+ 2, "Villa Coapa","Puente 186","Coapa",19.28435907,-99.13865463
+ 3, "Cuernavaca","Av. Vicente Guerrero 205","Cuernavaca",18.93448089,-99.23342975,"777 7101 523"
+ 4, "Lindavista","Av. Insurgentes Norte 1320","Gustavo A. Madero",19.481697,-99.1300626,"55 5747 5691"
+ 5, "Mixcoac","Blvd. Adolfo López Mateos 1181","Alvaro Obregón",19.38723675,-99.19071826,
+ 6, "Polanco","Blvd. Miguel de Cervantes Saavedra 397","Miguel Hidalgo",19.44158937,-99.20568536,"55 2122 0262"
+ 7, "Interlomas","Blvd. Magnocentro 4","Huixquilucan",19.40340847,-99.27353414,
+ 8, "Arboledas","Av. San Nicolás 10","Tlalnepantla",19.55125298,-99.20290338,"55 5321 3295"
+ 9, "Satélite","Circuito Centro Comercial 2001","Naucalpan",19.50785036,-99.23533753,
+10, "Atizapán","Av. Ruiz Cortines 1 Mz, 3 Lte 3","Atizapán de Zaragoza", 19.5482341,-99.2708027,"55 2345 0155"
+11, "Toluca","Av. S.S. Juan Pablo II 501","Metepec",19.257661,-99.616825
+12, "Xalapa","Carretera Jalapa - Veracruz Km 1.8","Xalapa",19.5161154,-96.88307973
+13, "Veracruz","Blvd. Adolfo Ruiz Cortines 1228","Boca del Río",19.16292455,-96.10657486,"229 9923 511"
+14, "Querétaro","Blvd. Bernardo Quintana 4107","Querétaro",20.6142531,-100.3937641,"442 2116 700"
+15, "Celaya","Av. Tecnológico 651","Celaya",20.54554608,-100.8203319,"461 1192 311"
+16, "Morelia","Periférico Independencia 1000","Morelia",19.67100901,-101.2110117,"443 3322 008"
+17, "León","Blvd. Juan Torres Landa 4137","León",21.09818391,-101.6340068,"477 7788 309"
+18, "León Campestre","Blvd. Eugenio Garza Sada 102","León",21.1574927,-101.7064892,"477 7102 908"
+19, "San Luis Potosí","Av. Chapultepec 200","San Luis Potosí",22.13841988,-101.00593,
+20, "Aguascalientes","Blvd. Aguascalientes Norte 802","Aguascalientes",21.9162434,-102.2878865,"449 9910 766"
+21, "Guadalajara López Mateos","Blvd. Adolfo López Mateos 3100","Tlajomulco de Zúñiga",20.57831396,-103.4492937,"333 2833 340"
+22, "Guadalajara Av. Vallarta","Av. Vallarta 4775","Zapopan",20.67911491,-103.4282974,
+23, "Villahermosa","Periférico Carlos Pellicer Cámara 403","Villahermosa",17.9663734,-92.9316065,
+24, "Puerto Vallarta","Av. Fluvial Vallarta 134","Puerto Vallarta",20.64123829,-105.2237144,"322 2226 588"
+25, "Monterrey Carretera Nacional","Carretera Nacional Km. 268 +500 5001","Monterrey",25.5781498,-100.2512201,"811 1224 118"
+26, "Monterrey","Av. Lázaro Cárdenas 800","San Pedro de la Garza",25.6398144,-100.3177396,"818 8133 809"
+27, "Saltillo","Blvd. Venustiano Carranza 6125","Saltillo",25.4781697,-100.9756419,
+28, "Monterrey Cumbres","Alejandro de Rodas 6767","Monterrey",25.7295984,-100.3927985,"818 8121 079"
+29, "Mérida","Calle 3-B 243","Mérida",21.037792,-89.6301495,"999 9913 170"
+30, "Culiacán","Blvd. Pedro Infante Poniente 2152","Culiacán",24.799144,-107.4249186,"667 7800 114"
+31, "Cancún","Av. Kabah 24","Cancún",21.148481,-86.83546,
+32, "Los Cabos","Carretera San José Del Cabo 1659","Los Cabos",22.90427532,-109.882454,"624 4146 187"
+33, "Chihuahua","Av. de la Juventud 7513","Chihuahua",28.648768,-106.13049,"614 4432 918"
+34, "Juárez","Rancho Agua Caliente 6911","Cd. Juárez",31.70232033,-106.4231661,"646 6172 828"
+35, "Hermosillo","Blvd. Luis Donaldo Colosio 416","Hermosillo",29.08265135,-110.9792415,"662 2236 629"
+36, "Mexicali","Carretera San Luis - Río Colorado Km. 7.5","Mexicali",32.60663671,-115.4343584,
+37, "Ensenada","Carretera Transpeninsular Ensenada 4179","Ensenada",31.81802738,-116.5969888,"646 6172 828"
+38, "Tijuana","Las Rocas 8351","Tijuana",32.50854033,-116.964269,
+39, "Tijuana Río","Blvd. Rodolfo Sánchez Taboada 8943","Tijuana",32.53191667,-117.0289102,"664 4633 573"
